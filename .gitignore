@@ -1,0 +1,23 @@
+.gradle/
+build/
+out/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
+*.log
+*.hprof
+*.burp
+*.burpbackup
+*.pcap
+*.har
+.env
+.env.*
+!.env.example
+/captures/
+/local-schemas/
+/tmp/
+# Commit gradle/wrapper/gradle-wrapper.jar; it is part of the build tooling.

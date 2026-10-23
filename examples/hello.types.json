@@ -1,0 +1,16 @@
+{
+  "1": {
+    "type": "uint"
+  },
+  "2": {
+    "type": "string"
+  },
+  "3": {
+    "type": "message",
+    "message_typedef": {
+      "1": {
+        "type": "uint"
+      }
+    }
+  }
+}
